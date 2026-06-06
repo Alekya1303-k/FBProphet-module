@@ -1,2 +1,2 @@
 # FBProphet-module
-Implementing a Time Series Forecasting model in Python
+Time Series Forecasting model using Facebook Prophet on real-world datasets
